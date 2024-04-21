@@ -1,27 +1,4 @@
-## Preview
-
-![Screenshot preview of the hello-friend extension on a new tab](./PREVIEW.png)
-
-## Releases
-
--   Firefox: https://addons.mozilla.org/en-US/firefox/addon/hello-friend-new-tab/
--   Chrome: https://chrome.google.com/webstore/detail/hello-friend/aehibelbdjcoffckialjmnilfimajain
-
-## Notes
-
--   In Firefox you'll have to manually set the home page.
-    -   Check the console for the URL in a new hello-friend tab
--   In Chrome remove the `applications` object in the `manifest.json` this is Firefox only
-
-## Roadmap / Contributions
-
-See https://github.com/jaywick/hello-friend/issues
-
-## Local development
-
-Clone the source
-
-    git clone git@github.com:jaywick/hello-friend.git
+## This fork is intended for personal use and changes. All credits goes to upstream repo
 
 Firefox
 
