@@ -1,8 +1,8 @@
 const options = {
-    TITLE: "hello, friend",
+    TITLE: "hello, raz",
     ROOT_FOLDER: /(bookmarks (tool)?bar|favou?rites bar)/i,
-    TITLE_COLOR: "#4d4f68",
-    BACKGROUND: "#282936",
+    TITLE_COLOR: "#ffffff",
+    BACKGROUND: "#000000",
     SEPARATORS: ["-", ""],
     COLOR_THEME: [
         "#ea51b2",
@@ -13,5 +13,5 @@ const options = {
         "#a1efe4",
         "#e9e9f4",
     ],
-    MAX_NAME_LENGTH: 30,
+    MAX_NAME_LENGTH: 50,
 };
