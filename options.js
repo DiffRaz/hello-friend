@@ -1,5 +1,5 @@
 const options = {
-    TITLE: "hello, raz",
+    TITLE: "hello, raz █",
     ROOT_FOLDER: /(bookmarks (tool)?bar|favou?rites bar)/i,
     TITLE_COLOR: "#ffffff",
     BACKGROUND: "#000000",
